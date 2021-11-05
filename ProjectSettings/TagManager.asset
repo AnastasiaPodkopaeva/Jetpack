@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - acorn
+  - laser
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 285754087
+    locked: 0
+  - name: Decorations
+    uniqueID: 517436159
+    locked: 0
+  - name: Objects
+    uniqueID: 1831021967
+    locked: 0
+  - name: Player
+    uniqueID: 4230261967
+    locked: 0
+  - name: UI
+    uniqueID: 3812207707
+    locked: 0
+  - name: Item
+    uniqueID: 731365841
+    locked: 0
